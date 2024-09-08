@@ -1,6 +1,6 @@
 import axios from "axios";
 // "https://quiz-back-production-54b3.up.railway.app"
-const baseURL = "https://quiz-back-production-54b3.up.railway.app";
+const baseURL = "https://quiz-back-production-2e68.up.railway.app";
 export const service = axios.create({
   baseURL,
   headers: {
